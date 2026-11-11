@@ -1,0 +1,12 @@
+Test Case 1
+Input Array : [2, 7, 11, 15]
+Target      : 9
+Result      : [0, 1]
+Numbers     : 2 + 7 = 9
+
+Test Case 2
+Input Array : [3, 2, 4]
+Target      : 6
+Result      : [1, 2]
+Numbers     : 2 + 4 = 6
+
